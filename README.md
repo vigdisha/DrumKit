@@ -1,6 +1,6 @@
 # DrumKit
 Press the key play the sound.
 
-#tools used:
+# Tools used:
 front end:HTML, CSS
 and advances javascript and DOM manupulation
